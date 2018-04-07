@@ -1,5 +1,6 @@
-// twitter Consumer Key (API Key)	1uORK2x0b844gA2LECjG1XQYe
-// Consumer Secret (API Secret)	fskAQ8YagatmVglpHBNP0BvR4Kwj5HkxOVNirgq4iC0OWyMml0
+
+
+
 console.log('this is loaded');
 
 exports.twitter = {
@@ -13,3 +14,4 @@ exports.spotify = {
   id: process.env.SPOTIFY_ID,
   secret: process.env.SPOTIFY_SECRET
 };
+
